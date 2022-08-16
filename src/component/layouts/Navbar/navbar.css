@@ -1,0 +1,47 @@
+.Sidebar__Button {
+  box-shadow: 2px;
+  margin: 90px auto;
+  background-color: white;
+  border-radius: 7px;
+  width: 80%;
+  text-align: center;
+  padding: 10px;
+  display: block;
+}
+
+.Sidebar__Button h3 {
+  margin: 0;
+  margin-bottom: 5px;
+  color: navy;
+}
+
+.Contact_button {
+  background: aquamarine !important;
+  color: black !important;
+  font-weight: bold !important;
+  font-size: large !important;
+}
+
+.appbar {
+  background-color: #fff !important;
+  box-shadow: none !important;
+}
+
+.NavList {
+  color: white !important;
+}
+
+.nav_selected {
+  color: aqua;
+  background-color: #f5f6f8;
+}
+
+.TextLink {
+  text-decoration: none;
+  color: #3c5166;
+  font-weight: 600;
+}
+
+.Main_headerTitle {
+  margin-left: 30%;
+}
